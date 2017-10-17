@@ -9,17 +9,21 @@ push origin
 
 Branch --> New branch
 
-<<<<<<< HEAD
+
 make changes/add files
 commit to test branch
 
 publishe branch
 
 branch --> updated from default branch
-=======
+
 
 Added additional code to test branch
->>>>>>> master
+
 
 Added more code to local
+
+
+
+Added more code to master
 
