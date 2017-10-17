@@ -10,6 +10,21 @@ push origin
 Branch --> New branch
 
 
+make changes/add files
+commit to test branch
+
+publishe branch
+
+branch --> updated from default branch
+
+
 Added additional code to test branch
 
+
+Added more code to local
+
+
+
 Added more code to master
+
+does this catch?
