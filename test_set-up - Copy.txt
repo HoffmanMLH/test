@@ -1,0 +1,3 @@
+Login to github
+Download/install GitHub desktop with default settings
+https://desktop.github.com/
