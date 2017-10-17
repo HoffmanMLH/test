@@ -1,3 +1,10 @@
 Login to github
 Download/install GitHub desktop with default settings
 https://desktop.github.com/
+
+Clone existing repo (give more detail here, I created an initial repo)
+Add/change/remove files
+Commit with high level comment and additional description
+push origin
+
+Branch --> New branch
