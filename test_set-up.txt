@@ -8,3 +8,8 @@ Commit with high level comment and additional description
 push origin
 
 Branch --> New branch
+
+make changes/add files
+commit to test branch
+
+publishe branch
